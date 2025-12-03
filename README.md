@@ -61,14 +61,14 @@ I enjoy turning ideas into real applications and improving through hands-on proj
 ### 🔹 **CampusCart – Mobile Marketplace App**
 A mobile platform for university students to buy/sell items, post lost & found, and find boarding places.  
 **Tech:** React Native, Node.js, MongoDB  
-🔗 *Add link when uploaded*
+🔗 *
 
 ---
 
 ### 🔹 **University Canteen Crowd Analysis – Web App**
 Shows real-time crowd levels using data visualization.  
 **Tech:** HTML, CSS, JavaScript, Chart.js  
-🔗 *Add link when uploaded*
+🔗 *
 
 ---
 
@@ -97,11 +97,7 @@ Fun matching game with automatic reset.
 - MongoDB Data Modelling Path – MongoDB University  
 - React JS Tutorial – Great Learning  
 - Artificial Intelligence Fundamentals – Great Learning  
-- Best Performance – HACKADAY – Black Eagles ITCS  
-
----
-
-### 🎓 **New / LinkedIn Certifications (Added from screenshot)**  
+- Best Performance – HACKADAY – Black Eagles ITCS   
 - Python Essentials 1 – Cisco Networking Academy  
 - Python for Beginners – University of Moratuwa  
 - Introduction to Generative AI Studio – Google Cloud Skills Boost  
