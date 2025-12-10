@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tharmeekan Senthurselvan 👋</h1>
 
 <p align="center">
-  <b>Junior Web Developer | Aspiring Mobile App Developer | IT Undergraduate – University of Jaffna</b>
+  <b> Aspiring Mobile App Developer | IT Undergraduate – University of Jaffna</b>
 </p>
 
 <p align="center">
