@@ -14,7 +14,7 @@
 I am a motivated and passionate IT undergraduate specializing in **web development**, **mobile app development**, and **software engineering**.  
 I enjoy turning ideas into real applications and improving through hands-on projects.
 
-- 💻 Experience in **software development** and building full-stack apps  
+- 💻 Experience in **mobile app development, software development** and building full-stack apps  
 - 🧑‍💻 Strong skills in **Java, JavaScript, C, C++, PHP, React.js, Node.js, MySQL**  
 - 📱 Interested in **React Native**, Flutter & mobile UI  
 - 🚀 Learning **Spring Boot**, backend development & cloud basics  
