@@ -61,14 +61,14 @@ I enjoy turning ideas into real applications and improving through hands-on proj
 ### 🔹 **CampusCart – Mobile Marketplace App**
 A mobile platform for university students to buy/sell items, post lost & found, and find boarding places.  
 **Tech:** React Native, Node.js, MongoDB  
-🔗 *
+🔗 https://github.com/ruwini01/CampusCart_Group05
 
 ---
 
 ### 🔹 **University Canteen Crowd Analysis – Web App**
 Shows real-time crowd levels using data visualization.  
 **Tech:** HTML, CSS, JavaScript, Chart.js  
-🔗 *
+🔗 https://github.com/jallu-dev/canteen
 
 ---
 
@@ -81,12 +81,13 @@ Secure login/signup/logout with sessions.
 ### 🔹 **Currency Converter App (Mobile)**
 Converts currencies using live API.  
 **Tech:** React Native  
-
+🔗 https://github.com/Tharmi1305/Currency-covert-app_ReactNative
 ---
 
 ### 🔹 **Animal Matching Game (Web)**
 Fun matching game with automatic reset.  
 **Tech:** HTML, CSS, JavaScript  
+🔗 https://github.com/Tharmi1305/IT3133-Assignment-04_Game
 
 ---
 
