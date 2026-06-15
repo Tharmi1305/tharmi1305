@@ -16,7 +16,7 @@ I enjoy turning ideas into real applications and improving through hands-on proj
 
 - 💻 Experience in **mobile app development, software development** and building full-stack apps  
 - 🧑‍💻 Strong skills in **Java, JavaScript, C, C++, PHP, React.js, Node.js, MySQL**  
-- 📱 Interested in **React Native**, Flutter & mobile UI  
+- 📱 Interested in React Native, **Flutter** & mobile UI  
 - 🚀 Learning **Spring Boot**, backend development & cloud basics  
 - 🤝 Team player with strong communication & self-learning ability  
 
